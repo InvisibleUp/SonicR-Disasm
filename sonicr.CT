@@ -1,0 +1,1804 @@
+<?xml version="1.0"?>
+<CheatTable CheatEngineTableVersion="12">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>42</ID>
+      <Description>"Also Credits Text"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>000CFD20</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>43</ID>
+      <Description>"Credits Text/Layout"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>000CFD38</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>201</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>4fbdf8</Address>
+      <Offsets>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>205</ID>
+      <Description>"Knuckles jump height"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>00501718</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>207</ID>
+      <Description>"Amy top speed"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>50172e</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>208</ID>
+      <Description>"Amy accel"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>501731</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>209</ID>
+      <Description>"Sonic turn speed"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>00501734</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>186</ID>
+      <Description>"CD Check"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>00504278</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>169</ID>
+      <Description>"AI RAM Location"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>540064</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>133</ID>
+      <Description>"File Open? (Forcing to 0 makes RI load without objects)"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>625bfc</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>115</ID>
+      <Description>"FullScreenMode?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>630144</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>116</ID>
+      <Description>"NativeSoftwareRenderMode?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>630148</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>111</ID>
+      <Description>"Function Key States"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>Array of byte</VariableType>
+      <ByteLength>10</ByteLength>
+      <Address>675907</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>109</ID>
+      <Description>"Game Is Quitting"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>67590a</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>152</ID>
+      <Description>"Sound Test Selection"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+28AF34</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>153</ID>
+      <Description>"Music Test Selection"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+28AF38</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>49</ID>
+      <Description>"1P Ready"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+28AFB8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>50</ID>
+      <Description>"2P Ready"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+28AFBC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>51</ID>
+      <Description>"3P Ready"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+28AFC0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>52</ID>
+      <Description>"4P Ready"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>068AFc4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>35</ID>
+      <Description>"Midleft Character ?"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+28AFF0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>31</ID>
+      <Description>"Left Character ?"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+28AFF8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>206</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>68b008</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>138</ID>
+      <Description>"Map Diag Offset (Range 20-30)"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>6D75C0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>134</ID>
+      <Description>"EDX"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>6D75CC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>135</ID>
+      <Description>"EBX"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>6D75D0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>136</ID>
+      <Description>"Map X Scaling?"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>6D75D4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>137</ID>
+      <Description>"Map Y Scaling?"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>6D75D8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>93</ID>
+      <Description>"Actual Y Resolution (DirectDraw)"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+2D9918</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>89</ID>
+      <Description>"Actual X Resolution (DirectDraw)"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+2D991C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>100</ID>
+      <Description>"Seconds Since Race Start"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6d9a38</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>117</ID>
+      <Description>"RenderMode"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6dd860</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>91</ID>
+      <Description>"Set X Resolution To..."</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+2E9898</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>92</ID>
+      <Description>"Set Y Resolution To..."</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>006E989C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>139</ID>
+      <Description>"Color Depth?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6e98b4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>182</ID>
+      <Description>"Visible Screen Width"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6e98dc</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>180</ID>
+      <Description>"No. of Game Windows"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6e9908</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>181</ID>
+      <Description>"2P HUD Split style"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6e991c</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"Camera Angle Float?"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>sonicr.exe+2E9958</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>192</ID>
+      <Description>"Viewport X (RO)"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6e9c90</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"Camera Angle Dword?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+2E9C94</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>193</ID>
+      <Description>"Viewport Y (RO)"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6e9c94</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>194</ID>
+      <Description>"Viewport Z (RO)"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6e9c98</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>149</ID>
+      <Description>"Current FPS"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6e9cdc</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>103</ID>
+      <Description>"Frames Rendered Lifetime"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6E9D00</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>101</ID>
+      <Description>"Frame Being Skipped?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6e9d08</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>191</ID>
+      <Description>"# Parts in course"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6EAD30</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>141</ID>
+      <Description>"Model Count"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>713060</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>142</ID>
+      <Description>"Model Limb Count"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>713064</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>143</ID>
+      <Description>"Model Vertex Count"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>713068</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>144</ID>
+      <Description>"Model Polygon Count"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>713070</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>145</ID>
+      <Description>"Model Frame Count"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>713074</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>196</ID>
+      <Description>"Something with race char models"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>72a5d8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>197</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>8f6428</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>189</ID>
+      <Description>"Footstep/Shadow texture page"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>8f6c28</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>187</ID>
+      <Description>"Pause Menu/MP Number Texture Page"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>8F6C38</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>184</ID>
+      <Description>"HUD texture page"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>8f6c3c</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>148</ID>
+      <Description>"Tileset Offset (Menus only)"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008F6C48</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>106</ID>
+      <Description>"Draw Distance 2"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>8fb35c</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>107</ID>
+      <Description>"Draw Distance 3"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>8fb360</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>108</ID>
+      <Description>"Draw Distance Fog Value?"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>8fb364</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>150</ID>
+      <Description>"Frames Rendered Scene"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+4FB68C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>151</ID>
+      <Description>"Frames Rendered Lifetime"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+4FB690</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>99</ID>
+      <Description>"DDraw Frame Limiter?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+4FB80C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>188</ID>
+      <Description>"Demo Mode"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>8fb8e4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"Current Course"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>8fb8ec</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>179</ID>
+      <Description>"HUD Style"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>8fb950</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>185</ID>
+      <Description>"Time Attack Submode"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>8fb954</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>36</ID>
+      <Description>"Midleft Character ??"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+4FB984</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>32</ID>
+      <Description>"Left Character ??"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+4FB98C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>76</ID>
+      <Description>"Game Difficulty"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD444</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>77</ID>
+      <Description>"Ghost On/Off"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD448</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>78</ID>
+      <Description>"Weather Option"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD44C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>79</ID>
+      <Description>"Catchup On/Off"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD450</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>80</ID>
+      <Description>"Guide On/Off"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD454</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>81</ID>
+      <Description>"Minimap On/Off"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD458</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>82</ID>
+      <Description>"2P Split Option"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD45C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>85</ID>
+      <Description>"Screen Y Resolution Option"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD468</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>84</ID>
+      <Description>"Screen X Resolution Option"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD46A</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>83</ID>
+      <Description>"Color Depth"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD46C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>96</ID>
+      <Description>"Alpha Blending On/Off"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD470</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>110</ID>
+      <Description>"Some Sort of Option"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>8fd474</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>94</ID>
+      <Description>"Interlace On/Off"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD478</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>70</ID>
+      <Description>"Draw Distance"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+4FD480</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>71</ID>
+      <Description>"Screen Size"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+4FD484</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>95</ID>
+      <Description>"Track Shading On/Off"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD488</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>97</ID>
+      <Description>"Unknown but Very Used Option"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD490</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>72</ID>
+      <Description>"Stereo On/Off"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD494</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>73</ID>
+      <Description>"Vocals On/Off"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD498</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>74</ID>
+      <Description>"SFX Volume"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD49C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>75</ID>
+      <Description>"Music On/Off"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD4A0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>121</ID>
+      <Description>"P1 X Pos"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD4F4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>58</ID>
+      <Description>"P1 Y Pos"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+4FD4F8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>123</ID>
+      <Description>"P1 Z Pos"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD4Fc</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>120</ID>
+      <Description>"P1 Rotation"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD504</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>29</ID>
+      <Description>"P1 Ring Count"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+4FD50C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>59</ID>
+      <Description>"P1 Elevation 2"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+4FD518</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>65</ID>
+      <Description>"P1 X Momentum"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+4FD520</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>62</ID>
+      <Description>"P1 Y Momentum"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+4FD524</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>66</ID>
+      <Description>"P1 Z Momentum"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+4FD528</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>68</ID>
+      <Description>"P1 In Water?"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+4FD534</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>119</ID>
+      <Description>"P1 Lap 1 (Game Over at 212400)"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD544</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"Current Place (Center/Player)"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>sonicr.exe+4FD550</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"Current Lap (Center/Player)"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+4FD552</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>190</ID>
+      <Description>"P1 depth into water"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD55E</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>54</ID>
+      <Description>"P1 Camera Rotation 2"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>sonicr.exe+4FD564</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>55</ID>
+      <Description>"P1 Ground Flag"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>8FD566</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>204</ID>
+      <Description>"Tails/Knuckles flight mode"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>8fd568</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>203</ID>
+      <Description>"Time in air"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>8fd58a</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>198</ID>
+      <Description>"Jumping Animation"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>8fd58c</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>200</ID>
+      <Description>"Animation Frame Char Select"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>8fd590</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>98</ID>
+      <Description>"P1 Loop Mode"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+4FD594</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>40</ID>
+      <Description>"P1 Identity"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>8fd5e6</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>199</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>8fd5e6</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"Center/P1 Model"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+4FD6D4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"Current Place (Midleft Character)"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>sonicr.exe+4FDC6C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"Current Lap (Midleft Character)"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>8FDC6E</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>37</ID>
+      <Description>"Midleft Character Identity"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+4FDD02</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>38</ID>
+      <Description>"Midleft Character Model"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+4FDDF0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>39</ID>
+      <Description>"2P Baloon Count"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+4FDE04</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>30</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+4FE340</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"Current Place (Midright Character)"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>sonicr.exe+4FE388</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"Current Lap (Midright Character)"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>8FE38A</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"Current Place (Left Character)"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>sonicr.exe+4FEAA4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"Current Lap (Left Character)"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>8FEAA6</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>33</ID>
+      <Description>"Left Character Identity"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+4FEB3A</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>34</ID>
+      <Description>"Left Character Model"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+4FEC28</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"Current Place (Right Character)"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>sonicr.exe+4FF1C0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"Current Lap (Right Character)"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>8FF1C2</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Pause Screen Selection"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+501C10</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>69</ID>
+      <Description>"Game Paused"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+501C30</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>147</ID>
+      <Description>"Screen Transition Coverage (Maxes out before -255)"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>901c44</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>146</ID>
+      <Description>"Screen Transition State"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>901c48</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>104</ID>
+      <Description>"No. Characters Tagged"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+501C70</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"Number of Tokens"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+501C70</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>21</ID>
+      <Description>"Collected Emeralds"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+501C78</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>183</ID>
+      <Description>"Victory screen timer"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>901c84</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>177</ID>
+      <Description>"ring sound ??"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>901cbc</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>105</ID>
+      <Description>"Time Until Race Start"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>901cc4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>178</ID>
+      <Description>"GO! image size"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>901cc8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>217</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>901eec</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>162</ID>
+      <Description>"LBrake Pushed"</Description>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>3</BitStart>
+      <BitLength>1</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>009020D8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>163</ID>
+      <Description>"Camera Pushed"</Description>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>6</BitStart>
+      <BitLength>1</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>009020D8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>164</ID>
+      <Description>"RBrake Pushed"</Description>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>7</BitStart>
+      <BitLength>1</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>009020D8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>154</ID>
+      <Description>"Spindash Pushed"</Description>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>0</BitStart>
+      <BitLength>1</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>9020d9</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>161</ID>
+      <Description>"Unknown Pushed"</Description>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>1</BitStart>
+      <BitLength>1</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>9020d9</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>155</ID>
+      <Description>"Jump Pushed"</Description>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>2</BitStart>
+      <BitLength>1</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>9020d9</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>160</ID>
+      <Description>"Start Pushed"</Description>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>3</BitStart>
+      <BitLength>1</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>9020d9</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>156</ID>
+      <Description>"Forward Pushed"</Description>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>4</BitStart>
+      <BitLength>1</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>9020d9</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>159</ID>
+      <Description>"Down Pushed"</Description>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>5</BitStart>
+      <BitLength>1</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>9020d9</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>157</ID>
+      <Description>"Left Pushed"</Description>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>6</BitStart>
+      <BitLength>1</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>9020d9</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>158</ID>
+      <Description>"Right Pushed"</Description>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>7</BitStart>
+      <BitLength>1</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>9020d9</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>61</ID>
+      <Description>"P1 Camera Something"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+502140</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>216</ID>
+      <Description>"Camera X Position"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>00902140</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>28</ID>
+      <Description>"Camera Elevation?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+502144</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>215</ID>
+      <Description>"Camera Elevation (Min 0)"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>00902144</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>211</ID>
+      <Description>"P1 Camera Distance"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>902148</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>53</ID>
+      <Description>"P1 Camera Rotation"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+50214C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>213</ID>
+      <Description>"P1 Camera Rotation"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>90214E</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>214</ID>
+      <Description>"Camera Angle"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>00902152</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Options Screen Selection"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+52528C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>165</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>925290</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"Something with Menu"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+525298</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Main Menu Option"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+5252B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>114</ID>
+      <Description>"Horis-Menu Screenpos Loc"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+5252B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>113</ID>
+      <Description>"Horis-Menu Screenpos Dest"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+5252BC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>112</ID>
+      <Description>"Horis-Menu Screenpos ?"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+5252C0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>126</ID>
+      <Description>"Gate 1 Animation"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+5252C8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>45</ID>
+      <Description>"1P Controller Type"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+5252DC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>46</ID>
+      <Description>"2P Controller Type"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>sonicr.exe+5252E0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>47</ID>
+      <Description>"3P Controller Type"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>9252e4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>48</ID>
+      <Description>"4P Controller Type"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>9252e8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Something on Menu"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>925418</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>127</ID>
+      <Description>"Gate 1 Unknown 1"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+53EABE</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>128</ID>
+      <Description>"Gate 1-2 Solidity"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+53EACE</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>129</ID>
+      <Description>"Gate 1-1 Solidity"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+5430E4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>130</ID>
+      <Description>"Gate 1 Unknown 2"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+5430E6</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>131</ID>
+      <Description>"Gate 1 Closed?"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>sonicr.exe+5430E8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Weather"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>94BCF4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Time of Day"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>94BCF8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>195</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>712d44</Address>
+      <Offsets>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>125</ID>
+      <Description>"W Key Pushed"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>DINPUT.dll+207B9</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>218</ID>
+      <Description>"P1 YZ Rotation"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD500</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>219</ID>
+      <Description>"P1 XZ Rotation"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD504</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>220</ID>
+      <Description>"P1 XY Rotation"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD508</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>221</ID>
+      <Description>"P1 Ring Count"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD50C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>222</ID>
+      <Description>"P1 Animation Frame? (RO)"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD510</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>223</ID>
+      <Description>"P1 X Position Mirror [???]"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD514</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>224</ID>
+      <Description>"P1 Y Position Mirror [???]"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD518</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>225</ID>
+      <Description>"P1 Z Position Mirror [???]"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>8fd51c</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>226</ID>
+      <Description>"P1 Y Position Mirror 2"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD52C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>227</ID>
+      <Description>"P1 Unused [??]"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD530</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>228</ID>
+      <Description>"P1 Time Until Sinkage"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>8fd536</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>229</ID>
+      <Description>"P1 Unknown"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD53C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>230</ID>
+      <Description>"P1 Forwards Momenteum RO"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD538</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>231</ID>
+      <Description>"P1 Distance on Track [?]"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD540</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>232</ID>
+      <Description>"P1 Lap 2 Time"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD548</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>233</ID>
+      <Description>"P1 Lap 3 Time"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD54C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>235</ID>
+      <Description>"P1 Unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD554</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>236</ID>
+      <Description>"P1 Most Recent Item"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD558</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>237</ID>
+      <Description>"P1 Item Get Cooldown Time"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD55A</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>238</ID>
+      <Description>"P1 Water splash timer [?]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD55C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>239</ID>
+      <Description>"P1 Pressing Forward [??]"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD560</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>240</ID>
+      <Description>"P1 Camera XZ Rotation"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD564</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>241</ID>
+      <Description>"P1 Unknown (RO)"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD598</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>242</ID>
+      <Description>"P1 Unknown (RO)"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD59C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>243</ID>
+      <Description>"P1 Unknown (RO)"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5A0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>244</ID>
+      <Description>"P1 Above Geometry"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD5A4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>245</ID>
+      <Description>"P1 Above Geometry Mirror"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD5A6</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>246</ID>
+      <Description>"P1 Jump Angle?"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5A8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>247</ID>
+      <Description>"P1 Slope Angle?"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5AC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>248</ID>
+      <Description>"P1 Loop ?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5B0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>249</ID>
+      <Description>"P1 Loop XZ Pos"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>250</ID>
+      <Description>"P1 Loop Distance"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>251</ID>
+      <Description>"P1 Loop ?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5BC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>252</ID>
+      <Description>"P1 Loop XZ Momenteum"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5C0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>253</ID>
+      <Description>"P1 Loop Momenteum"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5C4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>254</ID>
+      <Description>"P1 Drift Direction?"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5C8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>255</ID>
+      <Description>"P1 Unused"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5CC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>256</ID>
+      <Description>"P1 Unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5D0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>257</ID>
+      <Description>"P1 Unused"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5D4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>258</ID>
+      <Description>"P1 Unknown (Slopes?)"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5D8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>259</ID>
+      <Description>"P1 Unknown (Slopes?)"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5DC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>260</ID>
+      <Description>"P1 Unused"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5E0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>261</ID>
+      <Description>"P1 Always 1"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>008FD5E4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>262</ID>
+      <Description>"P1 Unused"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5E8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>263</ID>
+      <Description>"P1 Loop Unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5EC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>264</ID>
+      <Description>"P1 unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5F0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>265</ID>
+      <Description>"P1 GP Unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5F4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>266</ID>
+      <Description>"P1 GP Unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5F8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>267</ID>
+      <Description>"P1 Unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD5FC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>268</ID>
+      <Description>"P1 Unknown"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD600</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>269</ID>
+      <Description>"P1 Unused"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD604</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>270</ID>
+      <Description>"P1 Character Unknown"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD608</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>271</ID>
+      <Description>"P1 Character Unknown"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD60C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>272</ID>
+      <Description>"P1 Unused Aera Start"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD610</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>280</ID>
+      <Description>"P1 Unused Area End"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD6B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>281</ID>
+      <Description>"P1 Running Animation"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>008FD6E0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>282</ID>
+      <Description>"Track Parts Pt. 2"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6ead14</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>283</ID>
+      <Description>"Track Parts Pt. 2 Copy"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6ea274</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <LuaScript>--TRAINERGENERATORSTART--
+--This is autogenerated code. Changing code in this block will
+--get erased and rewritten if you regenerate the trainer code
+
+--Uncomment the following line if this is a Cheat Table format trainer and you don't want CE to show (Tip, save as .CETRAINER alternatively)
+--hideAllCEWindows()
+addresslist=getAddressList()
+
+
+control_setVisible(CETrainer_SEPERATOR, false)
+
+strings_add(getAutoAttachList(), "sonicr.exe")
+gBeepOnAction=true
+form_show(CETrainer)
+function AboutClick()
+  showMessage(gAboutText)
+end
+gAboutText=[[This trainer was made by Cheat Engine
+www.cheatengine.org]]
+
+function CloseClick()
+  closeCE()
+  return caFree --onClick doesn't care, but onClose would like a result
+end
+
+--TRAINERGENERATORSTOP--
+</LuaScript>
+</CheatTable>
